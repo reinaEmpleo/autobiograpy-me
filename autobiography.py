@@ -14,11 +14,12 @@ st.markdown("""
     @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 
     .title {
-        margin: auto; 
+        margin-bottom: 5%; 
         max-width: 80%; 
         margin-left: auto;
         margin-right: auto;
         text-align: center;
+            
     }
     
     .content { 
@@ -31,6 +32,8 @@ st.markdown("""
     h1, h2, h3, h4, h5, h6, *{
         font-family: 'Special Elite', cursive;
     }
+    
+
     
     p {
         margin: 2%;
@@ -74,7 +77,7 @@ if "typing" not in st.session_state:
     st.session_state.typing = True
 
 # Buttons for reset and skip functionality
-_, one, _, two = st.columns([1, 2, 1, 2], vertical_alignment="bottom")
+_, one, _, two = st.columns([.5, 1, 1, 1], vertical_alignment="bottom")
 if one.button("Reset", type="primary"):
     st.session_state.typed_text = ""
     st.session_state.typing = True
