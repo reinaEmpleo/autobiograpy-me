@@ -50,23 +50,17 @@ st.markdown("<h1 class='title'>The Curious Case of Reina Empleo 🔎</h1>", unsa
 
 # Autobiography text
 autobiography_text = (
-    "My name is Reina Luz B. Empleo. I was born on November 12, 1999, in a house in Punta Princesa, Tres de Abril Street."
-    " Located in Cebu City. I grew up in a sheltered environment, given that I was mostly sick and the only daughter in my family."
-    
-    "\n\nI have always been a curious-minded person who loves puzzle, simulation, educational and investigation games which fueled my curiosity in computers."
-    " I would mess with flash games or with some softwares in my old family PC."
-    " Ever since then, I always had an easier time to learn applications and various software. This interest led me to take STEM strand in SHS."
- 
-    "\n\nI attended Cebu Institute of Technology - University, where I grew to be a more knowledgeable person on science and technology. I learned a lot of things during that time, such as leadership and how to deal with people."
-    " My hardwork and dedication paid off and earned me a 'with Honors' medal, also a slight one semester tuition discount when I went to college."
-    
-    "\n\nStill attending the same University, I pursued a degree in Computer Science first. However it was the height of COVID-19, and the online setting greatly effected my mental health."
-    " Personally, I did my worse at school during those years. So in the end of 2nd year, I shifted to Information Technology. And my years in IT had the most transformative experiences for me."
-    " Personally, mentally and academically. I had made projects and groupworks with such innovative people under the supervisory of esteemed professors, developing lifelong friendships with some of them."
+"My name is Reina Luz B. Empleo. I was born on November 12, 1999, in a house on Tres de Abril Street, Punta Princesa, located in Cebu City. I grew up in a sheltered environment, as I was often sick and the only daughter in my family."
 
-    "\n\n Currently, I'm a 4th year IT student, in my last semester before I graduate. I'm looking for an internship that would build a solid foundation for the start of my career."
-    " I've grown to be a better person than I was when I started college. That I grew out of my comfort zone and, I'm actively pursuing a career in Cybersecurity, hoping to be a SOC analyst or a Digital Forensics Examiner."
-    "\n\nI never really thought I'd reach this far :>"
+"\n\nI have always been a curious-minded person who loves puzzle, simulation, educational, and investigation games, which fueled my curiosity about computers. I would mess with flash games or various software on my old family PC. Ever since then, I’ve always had an easier time learning applications and different software. This interest led me to take the STEM strand in SHS."
+
+"\n\nI attended Cebu Institute of Technology - University, where I grew to be more knowledgeable in science and technology. I learned a lot during that time, such as leadership skills and how to deal with people. My hard work and dedication paid off, earning me a 'with Honors' medal and a slight one-semester tuition discount when I went to college."
+
+"\n\nStill attending the same university, I initially pursued a degree in Computer Science. However, it was during the height of COVID-19, and the online setting greatly affected my mental health. Personally, I did my worst in school during those years. So at the end of the 2nd year, I shifted to Information Technology. My years in IT have been the most transformative for me—personally, mentally, and academically. I’ve worked on projects and group seatworks with innovative people under the supervision of esteemed professors, developing lifelong friendships with some of them."
+
+"\n\nCurrently, I'm a 4th-year IT student in my last semester before graduation. I'm looking for an internship that will build a solid foundation for the start of my career. I've grown to be a better person than I was when I started college, having grown out of my comfort zone. I'm actively pursuing a career in Cybersecurity, hoping to become a SOC Analyst or a Digital Forensics Examiner. \n\nI never really thought I'd reach this far :>"
+
+
 )
 
 # Session state to track if text is typed
